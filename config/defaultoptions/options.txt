@@ -1,0 +1,7 @@
+resourcePacks:["vanilla","mod_resources","file/FreshAnimations_v1.10.4.zip"]
+incompatibleResourcePacks:[]
+key_key.mute_microphone:key.keyboard.n
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.aether.invisibility_toggle.desc:key.keyboard.j
+key_supplementaries.keybind.quiver:key.keyboard.left.alt

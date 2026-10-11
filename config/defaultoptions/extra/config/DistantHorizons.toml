@@ -1,0 +1,22 @@
+# Distant Horizons client defaults for Luke's Survival Pack.
+# Only the settings we change are listed; DH fills in everything else on first launch.
+_version = 5
+
+[client]
+	quickEnableRendering = true
+	# LOW quality + LOW_IMPACT threads: runs on average PCs, players can raise it in the DH menu.
+	qualityPresetSetting = "LOW"
+	threadPresetSetting = "LOW_IMPACT"
+
+	[client.advanced.autoUpdater]
+		# Never let DH swap its own jar: every player must stay on the pack's version.
+		enableAutoUpdater = false
+		enableSilentUpdates = false
+
+	[client.advanced.graphics]
+		# SSAO costs a lot of GPU for little gain on distant terrain.
+		enableSsao = false
+
+	[client.advanced.graphics.quality]
+		# 128 chunks (2,048 blocks) of LODs instead of 256.
+		lodChunkRenderDistanceRadius = 128
