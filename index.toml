@@ -2,15 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/extra/config/DistantHorizons.toml"
-hash = "0bcde4d11e0243c3d4752cf65ac6c2ac605ed77f730c7aa256b3f9330bccf42a"
+hash = "af01d81c26e1c3a98aa2cd69c2d453eb98a3c7c3864dc0998fb1853f3d3cb8a5"
 
 [[files]]
 file = "config/defaultoptions/extra/config/iris.properties"
 hash = "827c0abe9dd40fa58d7d06dd6784236cca7002d9486c0fab0311fab70158ce60"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "dab3c579e8cf075dc74695072c4db0a9df4069acd959adbd3671e10f2f321ff3"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
-hash = "756962fe2a29ed3b15ac0a6b3ec871f33813c596e4f7922d0239305bdf22de99"
+hash = "65b8ca5daeabab681b5fa1c4150fe3f68e1cd46c91da1e360cef47c755aa6685"
+
+[[files]]
+file = "config/phantasm.json"
+hash = "5fc30c20d808fa90c4f2224f6218ec461f113cda6d4f3bbb0985832a67097ae9"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "3788a9ae99d03c5f08b5d8bff560229314496031c44fa29f1c410f56f4e87a49"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
@@ -23,6 +35,16 @@ hash = "b90c54669b239bd4f9702132d0fd16d1373e5f98c94c5df81418d2749f28e73c"
 [[files]]
 file = "mods/BOMD-NeoForge-1.21-1.3.3.pw.toml"
 hash = "e6e6643fd1ee2b74ff6ff8354871135e924876cc4d6c930f3b07e648535d4ec2"
+metafile = true
+
+[[files]]
+file = "mods/BadOptimizations-2.4.1-1.21.1.pw.toml"
+hash = "856e688652fad02d673a14903f0d9ee719c1bfcbea97ce0545e5d4d49382da5a"
+metafile = true
+
+[[files]]
+file = "mods/BetterTridents-v21.1.0-1.21.1-NeoForge.pw.toml"
+hash = "f0b54eaa8eb51ea69499fbcc11810aad0179369050ae15920c7a86ef5787d0cc"
 metafile = true
 
 [[files]]
@@ -48,6 +70,11 @@ metafile = true
 [[files]]
 file = "mods/IllagerInvasion-v21.1.6-1.21.1-NeoForge.pw.toml"
 hash = "573f030ddc1f52609d22b3eabac036906232ef5a06c2ef98554c8aa7abf9bdfe"
+metafile = true
+
+[[files]]
+file = "mods/ImmediatelyFast-NeoForge-1.6.14+1.21.1.pw.toml"
+hash = "83ad6cc9be1823922239ee4a037ba4fa6879234ffea427d32e73ae04f1a392df"
 metafile = true
 
 [[files]]
@@ -81,14 +108,33 @@ hash = "6612c892766e9a9c35016d918c4a52baa0abe0facdc1baa9beb280ea0101ec3b"
 metafile = true
 
 [[files]]
+file = "mods/Ribbits-1.21.1-NeoForge-4.1.6.pw.toml"
+hash = "94451e1be66cfb2b75d55799f9d6234ed32d3cb95ddf7b8134b464767aa1140f"
+metafile = true
+
+[[files]]
 file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.pw.toml"
 hash = "22462953ec80ddd241e46fc2d3db77fe0af2a631e2a6664134e760ee2c73078b"
+metafile = true
+
+[[files]]
+file = "mods/TravelersTitles-1.21.1-NeoForge-5.1.3.pw.toml"
+hash = "20991c8746fe6acd09135ae6299e7769241e324777a13940dba5c226849fc9f0"
+metafile = true
+
+[[files]]
+file = "mods/YungsApi-1.21.1-NeoForge-5.1.9.pw.toml"
+hash = "ccc3e0ade14af5be31550e10898dac6ad36fa0a0cb4b885c21aedbfae0976c71"
 metafile = true
 
 [[files]]
 file = "mods/aether-1.21.1-1.5.10-neoforge.pw.toml"
 hash = "c98ea875e0028fb0aff26ae221bc3b45606aa36da56d7f7a9cb1eadd1fa4ad3c"
 metafile = true
+
+[[files]]
+file = "mods/ancientechoes-1.0.0.jar"
+hash = "8673c300bd71a6cba477616c56a799ffc10a8af03316af1e74bfb8672da6aaed"
 
 [[files]]
 file = "mods/appleskin-neoforge-mc1.21-3.0.9.pw.toml"
@@ -99,6 +145,10 @@ metafile = true
 file = "mods/balm-neoforge-1.21.1-21.0.66.pw.toml"
 hash = "00a60c71cabe53218a0ed6660e432b81b2405d9b56c5a57fd2aaa1c235dcdc58"
 metafile = true
+
+[[files]]
+file = "mods/bossvariants-1.0.1.jar"
+hash = "0ed77d3eecd3b0d9fec982267af2c0b2dc6e8454d3c5fec4742ee6c3a76ba507"
 
 [[files]]
 file = "mods/caelus-neoforge-7.0.1+1.21.1.pw.toml"
@@ -126,6 +176,11 @@ hash = "dcbfcfc1d32df45796f449b69449c630edb45969487f8f85147476e90300559e"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.pw.toml"
+hash = "9769ac1a8debbf3a0812f56df16e801abe7e7bda779ad40eef79e1a1353c0292"
+metafile = true
+
+[[files]]
 file = "mods/edf-remastered-5.0.2.pw.toml"
 hash = "3bcf3647ffeb7432b0eea6e0152b0f8474d69227adce848e118fcb37b3027825"
 metafile = true
@@ -136,6 +191,10 @@ hash = "be68ead7cf910934df0ccb7a6f11707cb9db28dc2c873fbcb1ae784a5c814612"
 metafile = true
 
 [[files]]
+file = "mods/enderite-1.0.0.jar"
+hash = "78238ba0242a5ffb2c5394addf7e9612a9748b7db7d641566eded454fe0a1b0e"
+
+[[files]]
 file = "mods/entity_model_features-3.3.11-1.21-neoforge.pw.toml"
 hash = "b7ca21040dd68bbf08b4997c57d52e4d006568ddc55746a7c50c065afc495e4a"
 metafile = true
@@ -143,6 +202,16 @@ metafile = true
 [[files]]
 file = "mods/entity_texture_features-7.2.5-1.21-neoforge.pw.toml"
 hash = "2fa7d804bbd4cda2b55725140a362453d1596f002b267a3db2878280c15de786"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-neoforge-1.11.3-mc1.21.1.pw.toml"
+hash = "bc6617315ae64907441b839ff09dcde0c3532a1af85d0ace6883768d3d880aa9"
+metafile = true
+
+[[files]]
+file = "mods/equiplib-neoforge-1.0.0+mc1.21.1.pw.toml"
+hash = "c837345c7e789da289e46abc27455b6ebf809307b148d3e18c799eda2aa3829a"
 metafile = true
 
 [[files]]
@@ -191,6 +260,10 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
+file = "mods/lukesextras-1.0.7.jar"
+hash = "eceb46b052064055520e7c42fce82aa994ad8e711437ceb026fc36c7407aec2f"
+
+[[files]]
 file = "mods/mielon's-the-sift-1.1.2-mc1.21.1-neo.pw.toml"
 hash = "c8832494262bedb3e70808a79ad5d3675703ff852c1bbc5a2532b0271c86f1ef"
 metafile = true
@@ -206,9 +279,18 @@ hash = "9dd5f6a639ad738086a6eae84cde5a81f3b962d00f22b2109de6996486292f64"
 metafile = true
 
 [[files]]
+file = "mods/moreculling-neoforge-1.21.1-1.0.10.pw.toml"
+hash = "f8917e89ba2ad02e204171c8321274a640f371a10bae5aea7920896fd98c2583"
+metafile = true
+
+[[files]]
 file = "mods/naturalist-2.0.5-neoforge-1.21.1.pw.toml"
 hash = "6f01004cdc3efe18eaeeb710021150c9d027e251059a6b24c8af9d79666f6703"
 metafile = true
+
+[[files]]
+file = "mods/oceansovereign-1.0.1.jar"
+hash = "90d8880f50511055dd2fddf504f390b025d7e9eda0dad3d6b44c21dcc04a952e"
 
 [[files]]
 file = "mods/ok_zoomer-neo-10.0.0-beta.13.pw.toml"
@@ -221,9 +303,18 @@ hash = "7bed35fec7eec7f01b3eac5023be8901876988c6e729ea2e8171316b26edc949"
 metafile = true
 
 [[files]]
+file = "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.pw.toml"
+hash = "4bda5d20b907a5d5d034b3cdaa236f3fbbbecb034c7de3149fa628a3ec78e8b6"
+metafile = true
+
+[[files]]
 file = "mods/phantasm-1.0.3.pw.toml"
 hash = "9429bbafec385d354b9b4ba63eb39e5214602acb7dc7fe0b15f3849df3c88474"
 metafile = true
+
+[[files]]
+file = "mods/poker-1.0.1.jar"
+hash = "ca0afce0f7fc80006474028524a089c8cfdbfe02566e66094410e9f36f81c5b0"
 
 [[files]]
 file = "mods/polymorph-neoforge-1.1.0+1.21.1.pw.toml"
@@ -251,8 +342,13 @@ hash = "0a99a6404b1e4e7331ee3f4fcb1d6cb01651beb70a87de3189379f7f7760fe4e"
 metafile = true
 
 [[files]]
-file = "mods/voicechat-neoforge-1.21.1-2.6.22.pw.toml"
-hash = "687cae88508a9aacb0a5212ee6907283b98678ee0fc96cab8a80f64b1e017dee"
+file = "mods/voicechat-neoforge-1.21.1-2.6.24.pw.toml"
+hash = "d80f40461a8be3678448b34a38d4d31b59678a61eb37d1a9e9880767f9e0fdaa"
+metafile = true
+
+[[files]]
+file = "mods/wardentools-neoforge-1.21.1-4.1.1.pw.toml"
+hash = "8f0f891df2ccf9c21eeca0a9dfdfb5b38fe5b5aa93646272fce5643e461c15fd"
 metafile = true
 
 [[files]]

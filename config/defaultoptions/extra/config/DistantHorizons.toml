@@ -1,12 +1,12 @@
-# Distant Horizons client defaults for Luke's Survival Pack.
-# Only the settings we change are listed; DH fills in everything else on first launch.
+# Distant Horizons client defaults for Luke's Survival Pack (applied on first install only, via Default Options).
+# Explicit values: DH does not expand the LOW/LOW_IMPACT preset labels on its own, so the presets are CUSTOM.
+# DH fills in every other setting on first launch. Players can raise anything in the DH menu.
 _version = 5
 
 [client]
 	quickEnableRendering = true
-	# LOW quality + LOW_IMPACT threads: runs on average PCs, players can raise it in the DH menu.
-	qualityPresetSetting = "LOW"
-	threadPresetSetting = "LOW_IMPACT"
+	qualityPresetSetting = "CUSTOM"
+	threadPresetSetting = "CUSTOM"
 
 	[client.advanced.autoUpdater]
 		# Never let DH swap its own jar: every player must stay on the pack's version.
@@ -20,3 +20,17 @@ _version = 5
 	[client.advanced.graphics.quality]
 		# 128 chunks (2,048 blocks) of LODs instead of 256.
 		lodChunkRenderDistanceRadius = 128
+		maxHorizontalResolution = "TWO_BLOCKS"
+		verticalQuality = "LOW"
+		horizontalQuality = "LOW"
+		lodBiomeBlending = 1
+		vanillaFadeMode = "SINGLE_PASS"
+
+	[client.advanced.graphics.genericRendering]
+		enableMultiLayerClouds = false
+
+[common]
+
+	[common.multiThreading]
+		numberOfThreads = 2
+		threadRunTimeRatio = "0.75"

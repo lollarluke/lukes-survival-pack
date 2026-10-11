@@ -1,0 +1,12 @@
+name = "wardentools-neoforge-1.21.1-4.1.1"
+filename = "wardentools-neoforge-1.21.1-4.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KuQueJOG/versions/4k3tInpA/wardentools-neoforge-1.21.1-4.1.1.jar"
+hash-format = "sha512"
+hash = "e65fc9ae8d76c22e899200e7f37432e9e8f6ff62082167a047978ac4bc63030cba5defbc225f740ac2d035e62073b09b406f5654b2e2fe6aca14e1ae59de16d3"
+
+[update.modrinth]
+mod-id = "KuQueJOG"
+version = "4k3tInpA"
