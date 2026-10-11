@@ -17,6 +17,10 @@ file = "config/defaultoptions/options.txt"
 hash = "65b8ca5daeabab681b5fa1c4150fe3f68e1cd46c91da1e360cef47c755aa6685"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "81c3911da8e83ed6f4ceeb40966291908bb30c44dc9e26d662550d092ce91053"
+
+[[files]]
 file = "config/phantasm.json"
 hash = "5fc30c20d808fa90c4f2224f6218ec461f113cda6d4f3bbb0985832a67097ae9"
 
