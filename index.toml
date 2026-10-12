@@ -264,8 +264,8 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
-file = "mods/lspcore-1.0.0.jar"
-hash = "3b33a3807743f9bc187f84d0dcd4f51b43bd4e1e5adc2e900922f8a60d8959f6"
+file = "mods/lspcore-1.0.1.jar"
+hash = "0eab881a2a8114c38aceab5fcb4a39c5291fdbff10c4d266229544c71f0712da"
 
 [[files]]
 file = "mods/lukesextras-1.0.7.jar"
