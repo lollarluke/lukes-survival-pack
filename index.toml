@@ -21,6 +21,10 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "81c3911da8e83ed6f4ceeb40966291908bb30c44dc9e26d662550d092ce91053"
 
 [[files]]
+file = "config/packnotice-pack-version.txt"
+hash = "326dd5d8641f399990de42def50ac29eb4c9222601c0a0a3fc3c947dd3bec65d"
+
+[[files]]
 file = "config/phantasm.json"
 hash = "5fc30c20d808fa90c4f2224f6218ec461f113cda6d4f3bbb0985832a67097ae9"
 
@@ -264,8 +268,8 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
-file = "mods/lspcore-1.0.7.jar"
-hash = "e6075c5336ec37d8df66d9a9bdd33954b1c203487e9ba15b58b0adb152f5d60a"
+file = "mods/lspcore-1.0.8.jar"
+hash = "3ae7db421c0aeef20ae7c3baadf8f1d341517f8933c8767d41b1b6e340cc333b"
 
 [[files]]
 file = "mods/lukesextras-1.0.9.jar"
@@ -320,8 +324,8 @@ hash = "4bda5d20b907a5d5d034b3cdaa236f3fbbbecb034c7de3149fa628a3ec78e8b6"
 metafile = true
 
 [[files]]
-file = "mods/packnotice-1.1.0.jar"
-hash = "3850bcf33fc4492f1afd9fcd8b86657eccb85a75f5e5cc5f33c4953362430f3b"
+file = "mods/packnotice-1.2.0.jar"
+hash = "f994e40183f7d23c72a43a5fc6b992171a035a2896224aa042b8b4304e1f1e13"
 
 [[files]]
 file = "mods/phantasm-1.0.3.pw.toml"
