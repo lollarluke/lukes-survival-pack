@@ -264,12 +264,12 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
-file = "mods/lspcore-1.0.6.jar"
-hash = "11b15c422be02939108b0503c265521a34694c130d6635d8a39382e860ecbfe4"
+file = "mods/lspcore-1.0.7.jar"
+hash = "e6075c5336ec37d8df66d9a9bdd33954b1c203487e9ba15b58b0adb152f5d60a"
 
 [[files]]
-file = "mods/lukesextras-1.0.7.jar"
-hash = "eceb46b052064055520e7c42fce82aa994ad8e711437ceb026fc36c7407aec2f"
+file = "mods/lukesextras-1.0.9.jar"
+hash = "03dd43b11131ce8f114edfbf73f443476ce3c6f87286406d80b4fa3c07d565ff"
 
 [[files]]
 file = "mods/mielon's-the-sift-1.1.2-mc1.21.1-neo.pw.toml"
