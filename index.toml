@@ -22,7 +22,7 @@ hash = "81c3911da8e83ed6f4ceeb40966291908bb30c44dc9e26d662550d092ce91053"
 
 [[files]]
 file = "config/packnotice-pack-version.txt"
-hash = "326dd5d8641f399990de42def50ac29eb4c9222601c0a0a3fc3c947dd3bec65d"
+hash = "2df2bd7011e87351e2e3e296ddb7f2520270a76160f95b2d64b337167294f28c"
 
 [[files]]
 file = "config/phantasm.json"
@@ -268,8 +268,8 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
-file = "mods/lspcore-1.0.8.jar"
-hash = "3ae7db421c0aeef20ae7c3baadf8f1d341517f8933c8767d41b1b6e340cc333b"
+file = "mods/lspcore-1.0.9.jar"
+hash = "fe83046b803d7b98e360918bc2a174cbecb45bab12a98fe77ab3b4507bbc867f"
 
 [[files]]
 file = "mods/lukesextras-1.0.9.jar"
@@ -305,8 +305,8 @@ hash = "6f01004cdc3efe18eaeeb710021150c9d027e251059a6b24c8af9d79666f6703"
 metafile = true
 
 [[files]]
-file = "mods/oceansovereign-1.0.2.jar"
-hash = "d081df571757fa2a1922d927c9d3dac36ac136f31d311effaa8c47a22026756e"
+file = "mods/oceansovereign-1.0.3.jar"
+hash = "407961b9d1048e0f20dbd89c061085bac4e780c57701cd50bda5c0fa00f6d4d3"
 
 [[files]]
 file = "mods/ok_zoomer-neo-10.0.0-beta.13.pw.toml"
