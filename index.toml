@@ -22,7 +22,7 @@ hash = "81c3911da8e83ed6f4ceeb40966291908bb30c44dc9e26d662550d092ce91053"
 
 [[files]]
 file = "config/packnotice-pack-version.txt"
-hash = "2df2bd7011e87351e2e3e296ddb7f2520270a76160f95b2d64b337167294f28c"
+hash = "3b106e2ff87e58ed45b369d41f5f084a182052044b89bb9ff58ada97e206627f"
 
 [[files]]
 file = "config/phantasm.json"
@@ -268,8 +268,8 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
-file = "mods/lspcore-1.0.9.jar"
-hash = "fe83046b803d7b98e360918bc2a174cbecb45bab12a98fe77ab3b4507bbc867f"
+file = "mods/lspcore-1.0.11.jar"
+hash = "2de29c1274bb34c8b725227fbbac4c4ef53c18eb1646445f64581194d8dbbe65"
 
 [[files]]
 file = "mods/lukesextras-1.0.9.jar"
@@ -305,8 +305,8 @@ hash = "6f01004cdc3efe18eaeeb710021150c9d027e251059a6b24c8af9d79666f6703"
 metafile = true
 
 [[files]]
-file = "mods/oceansovereign-1.0.3.jar"
-hash = "407961b9d1048e0f20dbd89c061085bac4e780c57701cd50bda5c0fa00f6d4d3"
+file = "mods/oceansovereign-1.0.4.jar"
+hash = "1fe5ba0dca37666ca2f4bb6e1e5cb41fa825bc246acaba3565a721d3a42e8e35"
 
 [[files]]
 file = "mods/ok_zoomer-neo-10.0.0-beta.13.pw.toml"
@@ -370,6 +370,10 @@ metafile = true
 file = "mods/wardentools-neoforge-1.21.1-4.1.1.pw.toml"
 hash = "8f0f891df2ccf9c21eeca0a9dfdfb5b38fe5b5aa93646272fce5643e461c15fd"
 metafile = true
+
+[[files]]
+file = "mods/warmdeep-1.0.7.jar"
+hash = "3dd1faeb9a255515f0d14a2cd686a6beaca2b366da038cd08379db866debfb96"
 
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.6.0.pw.toml"
