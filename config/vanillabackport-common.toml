@@ -1,0 +1,56 @@
+# Luke's Survival Pack 1.0.12: Vanilla Backport 1.1.7.10, every feature on (Luke chose "Add everything", 2026-10-17).
+# Kept off on purpose:
+#   do_sulfur_cubes_explode = false  -> explosive sulfur cubes blow up blocks (TNT-style when mobGriefing is on). Rule: no block breaking.
+#   do_creaking_hearts_work_on_day = false -> vanilla behaviour (creakings only at night).
+# Hot sulfur cubes still deal 1 contact damage (no fire, no blocks). Geysers only push and give nausea.
+# Keys match the 1.1.7.10 jar exactly. COMMON config, NOT synced: put this identical file in the server's config/
+# AND the client pack's overrides/config/. Read at startup; worldgen keys only affect new chunks.
+
+["Bundles of Bravery"]
+	has_updated_bundles = true
+	bundle_loot = true
+	has_modern_bundle_graphics = true
+	has_dyeable_bundle_recipe = true
+
+["The Garden Awakens"]
+	resin = true
+	resin_loot = true
+	creaking = true
+	pale_garden = true
+	pale_trades = true
+	creaking_particle_color = 6250335
+	creaking_particle_reverse_color = 16545810
+	do_creaking_hearts_work_on_day = false
+
+["Spring to Life"]
+	bushes = true
+	firefly_bushes = true
+	wildflowers = true
+	dry_grass = true
+	fallen_trees = true
+	leaf_litter = true
+	cactus_flowers = true
+	farm_animal_variants = true
+	wolf_sound_variants = true
+	spring_trades = true
+	camel_spawns = true
+	lodestone_loot = true
+
+["Chase the Skies"]
+	dried_ghasts = true
+	leash_drop_connections = true
+	tears_music_disc = true
+	happy_ghast_speed_modifier = 1.0
+
+["Hot as Lava"]
+	lava_chicken_music_disc = true
+
+["Chaos Cubed"]
+	has_sulfur_caves = true
+	has_sulfur_springs = true
+	do_geysers_erupt = true
+	has_sulfur_cubes = true
+	do_sulfur_cubes_explode = false
+	do_sulfur_cubes_damage = true
+	do_merchant_trade_chaos_cubed_contents = true
+	has_bounce_music_disc = true
