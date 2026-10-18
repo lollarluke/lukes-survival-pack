@@ -2,11 +2,23 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/extra/config/DistantHorizons.toml"
-hash = "af01d81c26e1c3a98aa2cd69c2d453eb98a3c7c3864dc0998fb1853f3d3cb8a5"
+hash = "337b9e6d4dfb1bf32f84888789c70e65665007a748c7e0de9e7955c39c87b002"
+
+[[files]]
+file = "config/defaultoptions/extra/config/entity_model_features.json"
+hash = "5522d9a06ded94218cfa06f46d41602f35ab5a19733f0136a215cfedece555e5"
 
 [[files]]
 file = "config/defaultoptions/extra/config/iris.properties"
 hash = "827c0abe9dd40fa58d7d06dd6784236cca7002d9486c0fab0311fab70158ce60"
+
+[[files]]
+file = "config/defaultoptions/extra/config/jei/jei-client.ini"
+hash = "b0d44939f4a5c44f5cd196bf6955af43cf4e6cee8862d1b878b3538f2070fd26"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaero/world-map/client.cfg"
+hash = "521bc9ab8f9d800b796b33e078d6dbca0166ef1e1e46cdf3ca2bc31738af8f27"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -21,16 +33,20 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "81c3911da8e83ed6f4ceeb40966291908bb30c44dc9e26d662550d092ce91053"
 
 [[files]]
+file = "config/moreculling.toml"
+hash = "689f73f9fab4e831dff286a126e4c7fb8a0587cd1220e9284235891cefc8f8f3"
+
+[[files]]
 file = "config/packnotice-pack-version.txt"
-hash = "61cd2e70b17ad33553792f15d1b5e3fcb7b8a60b4ceb3da3fbdb7453b00efdfa"
+hash = "33e81f2f85426cbf27b4346ab5c03b6676b285bbf94a99e679ac04ee3513f709"
 
 [[files]]
 file = "config/phantasm.json"
-hash = "5fc30c20d808fa90c4f2224f6218ec461f113cda6d4f3bbb0985832a67097ae9"
+hash = "e303eb8922893065cd2af65637a4dd08cb211b09601ea2f67aa845bef98a46ce"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "3788a9ae99d03c5f08b5d8bff560229314496031c44fa29f1c410f56f4e87a49"
+hash = "1a6c01f2ea6167fa0b248ab41a3d7323d5c243750e6702ecab3d017953d6d9af"
 
 [[files]]
 file = "config/vanillabackport-client.toml"
@@ -197,6 +213,10 @@ hash = "77f7a7d098bea9daad7fc963274f0190d48c0631836390949c0d31e9a0f9c485"
 metafile = true
 
 [[files]]
+file = "mods/deepseas-1.0.1.jar"
+hash = "745939bacf3402107329ef4a19bd09e71b1d64310830e168ad791f288246b5bd"
+
+[[files]]
 file = "mods/defaultoptions-neoforge-1.21.1-21.1.8.pw.toml"
 hash = "dcbfcfc1d32df45796f449b69449c630edb45969487f8f85147476e90300559e"
 metafile = true
@@ -286,8 +306,8 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
-file = "mods/lspcore-1.0.12.jar"
-hash = "d67093fe63629aafafdf74687961af4f14aeab25c3cbcd86f331038c1cbef5a9"
+file = "mods/lspcore-1.0.14.jar"
+hash = "28aa7aafc4e4a47165e1910f6333a7da4a66281c4eab1111a84a23ba0e9e41e5"
 
 [[files]]
 file = "mods/lukesextras-1.0.9.jar"
@@ -370,13 +390,17 @@ hash = "37498aedf86bff03348318bf037e69492d3e6ed470f5e815d38d56553840150a"
 metafile = true
 
 [[files]]
-file = "mods/smoothplay-1.0.1.jar"
-hash = "5af3d84a2625aa36698bdbe4c2f229cd697ed47d698f123c990159664fde452e"
+file = "mods/smoothplay-1.0.6.jar"
+hash = "577164473fece94d51e943d89e051a8073eef97928779eff4704fde2add33724"
 
 [[files]]
 file = "mods/sodium-neoforge-0.8.13+mc1.21.1.pw.toml"
 hash = "9872a3c76d4bbdf168c2b921afaa1b41e097154a5ace68d82a735192695aa03a"
 metafile = true
+
+[[files]]
+file = "mods/spirecities-1.0.1.jar"
+hash = "89c7500a2a7baf14c8fef4281d2689169f11a2174e15927caefb247162827a1d"
 
 [[files]]
 file = "mods/supplementaries-1.21.1-3.9.9-neoforge.pw.toml"
@@ -394,8 +418,8 @@ hash = "8f0f891df2ccf9c21eeca0a9dfdfb5b38fe5b5aa93646272fce5643e461c15fd"
 metafile = true
 
 [[files]]
-file = "mods/warmdeep-1.0.8.jar"
-hash = "2230ab08a10d834e0430cccb6223d3cbb6a8ebd77bed3c6dc9628312939c38d0"
+file = "mods/warmdeep-1.0.11.jar"
+hash = "54ded5793d1148cf0de98f9bdfd13122eadb3bb2db42d0d3f09b7554dccd58ef"
 
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.6.0.pw.toml"

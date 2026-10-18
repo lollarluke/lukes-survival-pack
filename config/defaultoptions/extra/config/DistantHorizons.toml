@@ -20,6 +20,8 @@ _version = 5
 	[client.advanced.graphics.quality]
 		# 128 chunks (2,048 blocks) of LODs instead of 256.
 		lodChunkRenderDistanceRadius = 128
+		#Was 4 (DH default). Each step adds LOD detail while zoomed (Ok Zoomer, spyglass): more memory and GPU.
+		maxZoomQualityIncrease = 2
 		maxHorizontalResolution = "TWO_BLOCKS"
 		verticalQuality = "LOW"
 		horizontalQuality = "LOW"
