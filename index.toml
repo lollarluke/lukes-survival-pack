@@ -29,6 +29,10 @@ file = "config/defaultoptions/options.txt"
 hash = "65b8ca5daeabab681b5fa1c4150fe3f68e1cd46c91da1e360cef47c755aa6685"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/ModIntegrationOverride.json"
+hash = "3f3418e5882d3156e232c1772a31de19d3beb14b39dc56111c16d26f880f3aa1"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "81c3911da8e83ed6f4ceeb40966291908bb30c44dc9e26d662550d092ce91053"
 
@@ -38,7 +42,7 @@ hash = "689f73f9fab4e831dff286a126e4c7fb8a0587cd1220e9284235891cefc8f8f3"
 
 [[files]]
 file = "config/packnotice-pack-version.txt"
-hash = "d9c52b6b689187b22333d76269468cec96320d8f28fe074535fb1baca786059a"
+hash = "bacee2f26f1271203fb37eda259eee0dbdc5d95ee971071ecfa318dc8f1b865a"
 
 [[files]]
 file = "config/phantasm.json"
@@ -306,8 +310,8 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
-file = "mods/lspcore-1.0.15.jar"
-hash = "bb3f3324bcf309bd80fe08a2f7c4601796091a4797528ec46d55709cbaedce68"
+file = "mods/lspcore-1.0.15b.jar"
+hash = "e3f8bf52d719fa1c27f42980b4486be8ba546ef978eaff719e5482549f467f51"
 
 [[files]]
 file = "mods/lukesextras-1.0.9.jar"
@@ -343,8 +347,8 @@ hash = "6f01004cdc3efe18eaeeb710021150c9d027e251059a6b24c8af9d79666f6703"
 metafile = true
 
 [[files]]
-file = "mods/oceansovereign-1.0.4.jar"
-hash = "1fe5ba0dca37666ca2f4bb6e1e5cb41fa825bc246acaba3565a721d3a42e8e35"
+file = "mods/oceansovereign-1.0.5.jar"
+hash = "812c2cc19f567ae67cfccf455ab535eae258e13dd65c71ed96daff334ffb28aa"
 
 [[files]]
 file = "mods/ok_zoomer-neo-10.0.0-beta.13.pw.toml"

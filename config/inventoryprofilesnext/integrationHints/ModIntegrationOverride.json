@@ -1,0 +1,10 @@
+{
+  "aether": {
+    "com.aetherteam.aether.client.gui.screen.inventory.AetherAccessoriesScreen": {
+      "playerSideOnly": true
+    },
+    "com.aetherteam.aether.inventory.menu.AetherAccessoriesMenu": {
+      "playerSideOnly": true
+    }
+  }
+}
