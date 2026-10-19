@@ -38,11 +38,11 @@ hash = "689f73f9fab4e831dff286a126e4c7fb8a0587cd1220e9284235891cefc8f8f3"
 
 [[files]]
 file = "config/packnotice-pack-version.txt"
-hash = "33e81f2f85426cbf27b4346ab5c03b6676b285bbf94a99e679ac04ee3513f709"
+hash = "d9c52b6b689187b22333d76269468cec96320d8f28fe074535fb1baca786059a"
 
 [[files]]
 file = "config/phantasm.json"
-hash = "e303eb8922893065cd2af65637a4dd08cb211b09601ea2f67aa845bef98a46ce"
+hash = "36de5468d85757f870152beefc7988f8e82fbdf3dacd836cf097ce3fe6de4d33"
 
 [[files]]
 file = "config/supplementaries-common.toml"
@@ -175,8 +175,8 @@ hash = "c98ea875e0028fb0aff26ae221bc3b45606aa36da56d7f7a9cb1eadd1fa4ad3c"
 metafile = true
 
 [[files]]
-file = "mods/ancientechoes-1.0.0.jar"
-hash = "8673c300bd71a6cba477616c56a799ffc10a8af03316af1e74bfb8672da6aaed"
+file = "mods/ancientechoes-1.0.1.jar"
+hash = "7e1330d311545d80c84f1ff309ca847b971f669d3e5a1ef810f821b5584634d4"
 
 [[files]]
 file = "mods/appleskin-neoforge-mc1.21-3.0.9.pw.toml"
@@ -306,8 +306,8 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
-file = "mods/lspcore-1.0.14.jar"
-hash = "28aa7aafc4e4a47165e1910f6333a7da4a66281c4eab1111a84a23ba0e9e41e5"
+file = "mods/lspcore-1.0.15.jar"
+hash = "bb3f3324bcf309bd80fe08a2f7c4601796091a4797528ec46d55709cbaedce68"
 
 [[files]]
 file = "mods/lukesextras-1.0.9.jar"
@@ -399,8 +399,8 @@ hash = "9872a3c76d4bbdf168c2b921afaa1b41e097154a5ace68d82a735192695aa03a"
 metafile = true
 
 [[files]]
-file = "mods/spirecities-1.0.1.jar"
-hash = "89c7500a2a7baf14c8fef4281d2689169f11a2174e15927caefb247162827a1d"
+file = "mods/spirecities-1.0.2.jar"
+hash = "d3a2c001d6a12373a3734ebca11706c8b7f362c2bfec2a27c03465f7bdd165d5"
 
 [[files]]
 file = "mods/supplementaries-1.21.1-3.9.9-neoforge.pw.toml"
@@ -418,8 +418,8 @@ hash = "8f0f891df2ccf9c21eeca0a9dfdfb5b38fe5b5aa93646272fce5643e461c15fd"
 metafile = true
 
 [[files]]
-file = "mods/warmdeep-1.0.11.jar"
-hash = "54ded5793d1148cf0de98f9bdfd13122eadb3bb2db42d0d3f09b7554dccd58ef"
+file = "mods/warmdeep-1.0.12.jar"
+hash = "f48182b045f60eee55440b2654a4c771244dd2d5214896c49dc55f35bbb9d15a"
 
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.6.0.pw.toml"
