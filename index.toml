@@ -42,7 +42,7 @@ hash = "689f73f9fab4e831dff286a126e4c7fb8a0587cd1220e9284235891cefc8f8f3"
 
 [[files]]
 file = "config/packnotice-pack-version.txt"
-hash = "bacee2f26f1271203fb37eda259eee0dbdc5d95ee971071ecfa318dc8f1b865a"
+hash = "e0b99992c1c593f8d741cc1f49a5882908aeacbfad09a65d7cc810258b98cec6"
 
 [[files]]
 file = "config/phantasm.json"
@@ -310,12 +310,12 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
-file = "mods/lspcore-1.0.15b.jar"
-hash = "e3f8bf52d719fa1c27f42980b4486be8ba546ef978eaff719e5482549f467f51"
+file = "mods/lspcore-1.0.15c.jar"
+hash = "048963d88a46ed2aecb6d6ee6f2e13c62c0ded318b267c8f1dde98001c59fb25"
 
 [[files]]
-file = "mods/lukesextras-1.0.9.jar"
-hash = "03dd43b11131ce8f114edfbf73f443476ce3c6f87286406d80b4fa3c07d565ff"
+file = "mods/lukesextras-1.0.10.jar"
+hash = "7fcf09192a667432335c6c449eeaafc2f4d2efe3c351951c6891d3bbc13c0700"
 
 [[files]]
 file = "mods/mielon's-the-sift-1.1.2-mc1.21.1-neo.pw.toml"
