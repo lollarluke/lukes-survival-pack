@@ -1,11 +1,11 @@
 name = "Luke's Survival Pack"
-version = "1.0.15c"
+version = "1.0.16"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "753a0f308029b4e1ca2c8c32b748e6a9301e2ce1444e5eb2bafe051d24d14134"
+hash = "baa1b2c7143f0172933e2d10e7d6f776cc49d8b918f7fdfb58c6998c9303d7d7"
 
 [versions]
 minecraft = "1.21.1"
