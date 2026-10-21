@@ -42,7 +42,7 @@ hash = "689f73f9fab4e831dff286a126e4c7fb8a0587cd1220e9284235891cefc8f8f3"
 
 [[files]]
 file = "config/packnotice-pack-version.txt"
-hash = "bdd4dd779373a660f87d8001ac73b4f0ca88b6871486eee09fae3a47934ecb32"
+hash = "c8e58b248cbb9c46ea49177cd5fa61281ec33ec875325858d2cf7bf6da73288a"
 
 [[files]]
 file = "config/phantasm.json"
@@ -310,12 +310,12 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
-file = "mods/lspcore-1.0.16.jar"
-hash = "f9255305dd4736a7b9b866fc8529f36e3d8294284e285b36e3d329cb0899ecd2"
+file = "mods/lspcore-1.0.17.jar"
+hash = "569f52aaba64fbf56d66cff36fdb45a91f20cdf9f43b478c0f249d12e61ee556"
 
 [[files]]
-file = "mods/lukesextras-1.0.10.jar"
-hash = "7fcf09192a667432335c6c449eeaafc2f4d2efe3c351951c6891d3bbc13c0700"
+file = "mods/lukesextras-1.0.11.jar"
+hash = "c6bee8f1df41032152ff3b91a2a6ba610fc994358d5812153134f5be297052af"
 
 [[files]]
 file = "mods/mielon's-the-sift-1.1.2-mc1.21.1-neo.pw.toml"
@@ -347,8 +347,8 @@ hash = "6f01004cdc3efe18eaeeb710021150c9d027e251059a6b24c8af9d79666f6703"
 metafile = true
 
 [[files]]
-file = "mods/oceansovereign-1.0.6.jar"
-hash = "23670d84a8a9977fc064a0624c611c9e5f186fb6ed9d3951e995da5e9774017c"
+file = "mods/oceansovereign-1.0.7.jar"
+hash = "c048d43d1d79a970e9d1850cfca8f7c9ecb7308e1fda17a3373eda17bad8013e"
 
 [[files]]
 file = "mods/ok_zoomer-neo-10.0.0-beta.13.pw.toml"
@@ -422,8 +422,8 @@ hash = "8f0f891df2ccf9c21eeca0a9dfdfb5b38fe5b5aa93646272fce5643e461c15fd"
 metafile = true
 
 [[files]]
-file = "mods/warmdeep-1.0.12.jar"
-hash = "f48182b045f60eee55440b2654a4c771244dd2d5214896c49dc55f35bbb9d15a"
+file = "mods/warmdeep-1.0.13.jar"
+hash = "1fd0ab573d682f903ddc0248087eca19c6afc639c76afa54ddb7d3da2aa7fc43"
 
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.6.0.pw.toml"
