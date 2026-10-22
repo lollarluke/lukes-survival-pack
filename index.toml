@@ -42,7 +42,7 @@ hash = "689f73f9fab4e831dff286a126e4c7fb8a0587cd1220e9284235891cefc8f8f3"
 
 [[files]]
 file = "config/packnotice-pack-version.txt"
-hash = "7c04a0fc70c361f001ca9007616c5f1824460c6b85a96ea16a84160533804e50"
+hash = "de845d5f200af97f735e5f5dcc7b8c843cc6b98e0be7c23cc8ca1b3f73d078b9"
 
 [[files]]
 file = "config/phantasm.json"
@@ -310,8 +310,8 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
-file = "mods/lspcore-1.0.18.jar"
-hash = "62ab0003b90917417e4ba18dd8f56f4632c393b131e9746d26e37318ffa329bd"
+file = "mods/lspcore-1.0.19.jar"
+hash = "bcb18175d2e769fc8f9ae03d632ee1079de64da5357a22aa1c26d5bbb9783a16"
 
 [[files]]
 file = "mods/lukesextras-1.0.11.jar"
@@ -422,8 +422,8 @@ hash = "8f0f891df2ccf9c21eeca0a9dfdfb5b38fe5b5aa93646272fce5643e461c15fd"
 metafile = true
 
 [[files]]
-file = "mods/warmdeep-1.0.14.jar"
-hash = "8d71135148a68056d5de5b9032ad36f58a8968cea8ee2bc626e79035fdd2dc07"
+file = "mods/warmdeep-1.0.15.jar"
+hash = "190fe20003d00aa8dbce8e205b85379f8c3c05f80282053e47442217e8b01afa"
 
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.6.0.pw.toml"
