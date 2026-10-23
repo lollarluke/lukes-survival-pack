@@ -42,7 +42,7 @@ hash = "689f73f9fab4e831dff286a126e4c7fb8a0587cd1220e9284235891cefc8f8f3"
 
 [[files]]
 file = "config/packnotice-pack-version.txt"
-hash = "975801abe1af6fc1709ed2cd5b0680a4ea1daca7a5862e78b4ff941bb1420191"
+hash = "baec850bf38c5e54a09a7dc612d8c7902f01f11411b066a5d304163b69d13bbd"
 
 [[files]]
 file = "config/phantasm.json"
@@ -310,8 +310,8 @@ hash = "de26198291e877e373b1a28795f811eabfe3a2f456ee008c28804c49ce7f755d"
 metafile = true
 
 [[files]]
-file = "mods/lspcore-1.0.20.jar"
-hash = "225f85a056ee0e627989b4e3b0e79bea40d78249c7f95e80ba723cb2e8795f5e"
+file = "mods/lspcore-1.0.20a.jar"
+hash = "45c86e39cbb7643ced5a03789fb0f367ee5d5fc0f532e8696f3bbb69acd48d19"
 
 [[files]]
 file = "mods/lukesextras-1.0.11.jar"
